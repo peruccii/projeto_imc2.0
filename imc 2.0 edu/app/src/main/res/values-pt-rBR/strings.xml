@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+
+    <string name="calculate">Calculadora</string>
+    <string name="bmi">IMC</string>
+    <string name="login">Login</string>
+    <string name="email">Digite seu e-mail</string>
+    <string name="password">Digite sua senha</string>
+    <string name="new_user">Registre-se</string>
+    <string name="logo_name">SENAI</string>
+    <string name="sign_new_user">Cadastrar novo usuário</string>
+    <string name="name">Seu nome</string>
+    <string name="weight">Peso</string>
+    <string name="height">Altura</string>
+    <string name="create_user">Create new user</string>
+    <string name="text_bmi">Vamos calcular seu IMC?</string>
+    <string name="result_text">Esse é o resultado do seu IMC</string>
+
+    <string name="under">Abaixo do peso</string>
+    <string name="ideal">Peso ideal</string>
+    <string name="over">Levemente acima do peso</string>
+    <string name="one">Obesidade I</string>
+    <string name="two">obesidade II</string>
+    <string name="three">obesidade III</string>
+</resources>
